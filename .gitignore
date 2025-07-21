@@ -1,0 +1,16 @@
+# Ignore raw Medicare data (too large)
+data/raw/Medicare_Provider_Util_Payment_PUF_CY2023.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment files or secrets
+.env
+
