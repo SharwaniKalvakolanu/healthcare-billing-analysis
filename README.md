@@ -14,10 +14,4 @@ The goal is to learn how to:
 - `src/`: Python scripts (to be added later)
 - `dashboard/`: visualizations (coming soon)
 
-## How to Run
-
-1. Open your terminal and activate your environment
-2. Run Jupyter Notebook:
-   ```bash
-   jupyter notebook
 ## Learning Git
